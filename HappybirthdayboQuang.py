@@ -1,0 +1,5 @@
+print("Happy birthday to you")
+print("Happy birthday to you")
+print("Happy birthday Dear bo Quang")
+print("Happy birthday to you")
+print("Chuc mung sinh nhat bo Quang")
