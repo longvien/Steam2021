@@ -90,7 +90,7 @@ class Game:
             text = self.font.render("YOU WON!!", 1, YELLOW)
             self.screen.blit(text, (150, 250))
         else:
-            text = self.font.render("YOU LOST!!", 1, YELLOW)
+            text = self.font.render("Game Over!!", 1, YELLOW)
             self.screen.blit(text, (150, 250))
 
     def is_quit(self):
